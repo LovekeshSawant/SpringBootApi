@@ -33,5 +33,24 @@ To run this project locally, follow these steps:
 - Database: MySQL
 - IDE: Eclipse
 
+## Screenshoots
+1) Patient Registration
+   ![registration](https://github.com/LovekeshSawant/SpringBootApi/assets/91584045/f7bc3c88-8b57-4d96-92a7-d954a1be8977)
+
+2) Patient Login
+  ![Login](https://github.com/LovekeshSawant/SpringBootApi/assets/91584045/011b23c8-c334-492c-afe6-008e630837d3)
+
+3) After successfull login listing doctors list from database 
+  ![Welcome](https://github.com/LovekeshSawant/SpringBootApi/assets/91584045/456f8fc7-3486-4b83-8f1c-90a38571e5ea)
+
+4) Details Page
+   ![Details](https://github.com/LovekeshSawant/SpringBootApi/assets/91584045/5eb6e09f-69d3-441e-8ed7-fddaa23e279a)
+
+5) Bookings page with message if bookings not available
+   ![Booking](https://github.com/LovekeshSawant/SpringBootApi/assets/91584045/36fae081-5f28-4b73-9351-7541dfabd4f8)
+
+6) Final page for confirming booking confirmed and saving details to database
+    ![FinalPage](https://github.com/LovekeshSawant/SpringBootApi/assets/91584045/44a64268-7987-4cac-b627-69d9f418bd8f)
+
 ## Contact
 If you have any questions or suggestions, you can reach me at [eobart97@gmail.com].
